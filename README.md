@@ -32,6 +32,21 @@ This repository contains my **Image Processing laboratory work** implemented in 
 
 ---
 
+
+## Lab 3: Noise Removal and Structure Preservation
+- Simulation of salt-and-pepper noise on clean facial images  
+- Analysis of how random noise disrupts fine structures and visual continuity 
+- Noise reduction using mean (average) filtering and discussion on blur-induced detail loss
+- Median filtering for effective removal of impulse noise while preserving edges
+- Gaussian smoothing and analysis of noise–detail trade-offs
+- Bilateral filtering for edge-aware noise reduction
+- Laplacian-based sharpening to enhance structural boundaries
+- Study of how sharpening can re-amplify noise if applied excessively
+
+**Focus:** Understanding the balance between denoising and detail retention, and evaluating classical spatial-domain filters based on their ability to suppress noise while preserving edges and facial identity.
+
+---
+
 ## Tools & Technologies
 - **Python 3**  
 - **Jupyter Notebook** (.ipynb)  
