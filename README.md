@@ -120,6 +120,22 @@ This repository contains my **Image Processing laboratory work** implemented in 
 
 ---
 
+## Lab 8: Frequency-Domain Filtering for Artifact Removal
+- Visualizing the frequency spectrum using 2D FFT
+- Shifting zero-frequency component to the center
+- Observing low-frequency and high-frequency components
+- Identifying periodic noise patterns in the spectrum
+- Designing a circular low-pass frequency mask
+- Filtering high-frequency components in the frequency domain
+- Reconstructing the image using inverse FFT
+- Comparing original and filtered images
+- Analyzing blurring effects due to high-frequency removal
+- Understanding when frequency filtering is preferable over spatial filtering
+
+**Focus:** Understanding how images can be analyzed and cleaned in the frequency domain, especially for removing structured or periodic noise.
+
+---
+
 ## Tools & Technologies
 - **Python 3**  
 - **Jupyter Notebook** (.ipynb)  
